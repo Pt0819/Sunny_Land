@@ -1,0 +1,4 @@
+repository "FirstGame@wechat_os_qy0-zh9hasxfb7qprqjfmakau@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
